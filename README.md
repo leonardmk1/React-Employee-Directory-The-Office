@@ -12,7 +12,7 @@ As a user, I want to be able to view my entire employee directory at once so tha
 
 ## Links
 
-https://leonardmk1.github.io/React-Employee-Directory/
-https://github.com/leonardmk1/React-Employee-Directory
+https://leonardmk1.github.io/React-Employee-Directory-The-Office/
+https://leonardmk1.github.io/React-Employee-Directory-The-Office/
 
 
